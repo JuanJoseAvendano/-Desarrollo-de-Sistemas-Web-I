@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>¡Resultados de datos!</title> <script src="https://kit.fontawesome.com/a7170709a.js" crossorigin="anonymous"></script> <link rel="stylesheet" href="./style.css"/> </head>
+<body>
+    <div class="dive2"> <h1>Resultados</h1> <div style="text-align: center;">
+            <img src="snoopy.jpg" alt="Resultado"> </div>
+        
+        <h2>¡Bien Hecho!</h2> </div>
+</body>
+</html>
